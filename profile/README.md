@@ -3,4 +3,3 @@
 - 🙋‍♀️ Hello and welcome to pyrret
 - 🌈 If you want to contribute, feel free to open a pull request!
 - 👩‍💻 Source code can be found in most repositories
-- 🧙 To signup for an account and access pyrret live, visit {PYRET_LIVE_WEB}.
